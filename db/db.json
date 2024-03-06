@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": "cd96",
+      "email": "demo3@gmail.com",
+      "password": "demo3@123"
+    },
+    {
+      "id": "afaa",
+      "email": "chandru@gmail.com",
+      "password": "chandru@123"
+    },
+    {
+      "id": "8764",
+      "email": "trail@gmail.com",
+      "password": "trail@123"
+    },
+    {
+      "id": "0400",
+      "email": "trail@gmail.com",
+      "password": "Rashid@123"
+    },
+    {
+      "email": "rashid@gmail.com",
+      "password": "Rashid@12",
+      "id": "3a61"
+    }
+  ]
+}
